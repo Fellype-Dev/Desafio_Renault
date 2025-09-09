@@ -1,0 +1,49 @@
+# Ambientes virtuais Python
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Arquivos de configuração do VS Code
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/c_cpp_properties.json
+
+# Modelos salvos (opcional - descomente se não quiser versionar)
+# *.h5
+# *.pkl
+# *.joblib
+
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch
+*.pth
+
+# TensorFlow
+*.pb
+*.tflite
+
+# Dados temporários
+temp/
+tmp/
