@@ -6,7 +6,7 @@ import numpy as np
 # --- CONFIGURAÇÃO ---
 PASTA_BOAS = "dataset_final/boas"
 PASTA_DEFEITO = "dataset_final/com_defeito"
-CAMERA_INDEX = 1 # Mude para o índice da sua câmera USB
+CAMERA_INDEX = 0 # Mude para o índice da sua câmera USB
 
 # Cria as pastas se elas não existirem
 os.makedirs(PASTA_BOAS, exist_ok=True)

@@ -59,7 +59,7 @@ history = model.fit(
 )
 print("Treinamento concluído!")
 
-model_filename = 'modelo_pecas_teste.h5'
+model_filename = 'modelo_pecas_pistao.h5' # Nome do modelo salvo
 model.save(model_filename)
 print(f"\nModelo treinado salvo como '{model_filename}'")
 

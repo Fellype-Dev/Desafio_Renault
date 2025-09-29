@@ -5,8 +5,8 @@ from tensorflow.keras.models import load_model
 # --- Configuração ---
 IMG_HEIGHT = 128
 IMG_WIDTH = 128
-MODEL_PATH = 'modelo_pecas_teste.h5' # modelo que vai querer usar no teste (caso treine um modelo novo e queria testar, é só mudar aqui)
-CAMERA_INDEX = 1 # indice da camera usb (depende de quantas cameras tiver no pc)
+MODEL_PATH = 'modelo_pecas_pistao.h5' # modelo que vai querer usar no teste (caso treine um modelo novo e queria testar, é só mudar aqui)
+CAMERA_INDEX = 0 # indice da camera usb (depende de quantas cameras tiver no pc)
 
 print(f"Carregando modelo: {MODEL_PATH}...")
 try:
