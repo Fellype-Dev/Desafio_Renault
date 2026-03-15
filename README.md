@@ -4,7 +4,7 @@ Sistema completo para inspeção automatizada de peças utilizando visão comput
 
 ## 🚀 Funcionalidades
 
-### 📸 Coleta de Dados
+### 📸 Coleta dos dados
 - Captura em tempo real via câmera USB
 - Detecção automática de objetos circulares
 - Classificação manual das peças (Boa/Defeito)
