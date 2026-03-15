@@ -1,4 +1,4 @@
-# Sistema de Inspeção de Peças - Desafio Renault 2025
+# Sistema de Inspeção de Peças - Desafio Renault
 
 Sistema completo para inspeção automatizada de peças utilizando visão computacional e deep learning.
 
