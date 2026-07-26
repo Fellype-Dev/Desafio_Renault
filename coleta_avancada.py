@@ -18,7 +18,7 @@ if not cap.isOpened():
     print(f"Erro: Não foi possível abrir a câmera no índice {CAMERA_INDEX}.")
     exit()
 
-GITHUB_TOKEN=0817238174612849_ASJDHAJSDASBNDJN12837128
+aaaaaaaaaaaaaaaaaaaaaaasdasdasdaaaaaaaaaa
 
 print("\n--- Coleta de Dataset Avançada (Salva apenas a ROI) ---")
 print("Pressione 'b' para salvar a tampa detectada como 'BOA'.")
